@@ -19,6 +19,10 @@ OBJS=BrogueCode/Architect.o \
 	BrogueCode/RogueMain.o \
 	BrogueCode/Random.o \
 	BrogueCode/Recordings.o \
+	BrogueCode/Grid.o \
+	BrogueCode/PowerTables.o \
+	BrogueCode/Sqrt.o \
+	BrogueCode/Time.o \
 	PlatformCode/main.o \
 	PlatformCode/platformdependent.o \
 	PlatformCode/tcod-platform.o 

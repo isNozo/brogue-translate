@@ -207,7 +207,7 @@
 #define OMEGA_CHAR			0x03A9
 #define THETA_CHAR			0x03B8
 #define LAMDA_CHAR			0x03BB
-#define KOPPA_CHAR			0x03DF//0x03DE
+#define KOPPA_CHAR			0x03DE
 #define LOZENGE_CHAR		0x29EB
 #define CROSS_PRODUCT_CHAR	0x2A2F
 
