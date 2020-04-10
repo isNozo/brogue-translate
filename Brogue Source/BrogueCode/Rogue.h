@@ -25,7 +25,13 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdint.h>
+#include <libintl.h>
+#include <locale.h>
 #include "PlatformDefines.h"
+
+#define _(String) gettext (String)
+#define gettext_noop(String) String
+#define N_(String) gettext_noop (String)
 
 // unicode: comment this line to revert to ASCII
 
